@@ -1,2 +1,2 @@
-# main.js
+# hotpi-app
 Created with CodeSandbox
